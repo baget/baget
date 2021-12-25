@@ -1,3 +1,6 @@
+[![Liknedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oren-weil-78583210/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bagetx/)
+
 # Oren's Github
 - 🎓 I'm Software Engineer (B.Sc) with years of experience
 - 🧰 I'm Maker 
@@ -16,9 +19,16 @@
 ![My Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=baget&show_icons=true&theme=dracula)
 
 
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=baget&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+# 😁 Joke 😁
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **baget/baget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
