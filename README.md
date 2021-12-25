@@ -13,10 +13,10 @@
 - C/C++
 - C#
 - Windows Internals 🖥️
-- Arduinos 🤖
+- Arduino 🤖
 - Raspberry Pi 🍓 
-- ESP8266/ESP3 📡
-- Smarthome (e.g. Home Assistant)
+- ESP8266/ESP32 📡
+- Smart-home (e.g. Home Assistant)
 
 ## Some Cool Statistics 💯
 ![Oren`s GitHub stats](https://github-readme-stats.vercel.app/api?username=baget&show_icons=true&theme=dracula)
