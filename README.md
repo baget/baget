@@ -12,6 +12,7 @@
 ## Skills
 - C/C++
 - C#
+- Windows Internals 🖥️
 - Arduinos 🤖
 - Raspberry Pi 🍓 
 - ESP8266/ESP3 📡
