@@ -1,7 +1,7 @@
 # Oren's Github
 - 🤓 I’m currently working on C/C++, C# Projects 
 - 🌱 I’m currently learning Rust 
-- 🧰 I'm Maker working with 🤖 Arduinos, 🍓 Raspberry Pis, 📡 ESP8266/ESP32 boards and etc...
+- 🧰 I'm Maker working with 🤖 Arduinos, 🍓 Raspberry Pis, 📡 ESP8266/ESP32 boards and Smart-home projects 
 
 ## Some Cool Statistics 💯
 ![Oren`s GitHub stats](https://github-readme-stats.vercel.app/api?username=baget&show_icons=true&theme=dracula)
