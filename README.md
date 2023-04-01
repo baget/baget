@@ -31,6 +31,8 @@
 # 😁 Joke 😁
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+![Daily Dev Card](https://api.daily.dev/devcards/8ed6aa6dc7be401ebce741b156f11bb8.png?r=jk7)
+
 <!--
 **baget/baget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
