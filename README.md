@@ -1,4 +1,4 @@
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/baget/)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 [![Liknedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oren-weil-78583210/)
@@ -6,7 +6,7 @@
 
 
 # Oren's Github
-- 🎓 I'm Software Engineer (B.Sc) with years of experience
+- 🎓 I'm a Software Engineer (B.Sc) with years of experience
 - 🧰 I'm Maker 
 
 ## Skills
