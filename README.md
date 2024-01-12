@@ -12,6 +12,7 @@
 ## Skills
 - C/C++
 - C#
+- Python
 - Windows Internals 🖥️
 - Arduino 🤖
 - Raspberry Pi 🍓 
@@ -20,6 +21,10 @@
 
 [![Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,rust,powershell,dotnet,arduino,raspberrypi,linux,vscode,visualstudio,git,StackOverflow)](https://skillicons.dev)
 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
 ## Some Cool Statistics 💯
 ![Oren`s GitHub stats](https://github-readme-stats.vercel.app/api?username=baget&show_icons=true&theme=dracula)
