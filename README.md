@@ -18,6 +18,9 @@
 - ESP8266/ESP32 📡
 - Smart-home (e.g. Home Assistant)
 
+[![Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,rust,powershell,dotnet,arduino,raspberrypi,linux,vscode,visualstudio,git,StackOverflow)](https://skillicons.dev)
+
+
 ## Some Cool Statistics 💯
 ![Oren`s GitHub stats](https://github-readme-stats.vercel.app/api?username=baget&show_icons=true&theme=dracula)
 
